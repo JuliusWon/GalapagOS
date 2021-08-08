@@ -1,1 +1,1 @@
-# GalapagOS
+# galapagOS
